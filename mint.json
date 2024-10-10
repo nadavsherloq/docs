@@ -62,7 +62,7 @@
        "group": "Our Platform",
        "pages": [
         {
-                "group": "Integrations",
+                "group": "All Integrations",
                 "pages": [
                   "integrations",
                   "datagrip"
