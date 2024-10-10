@@ -62,10 +62,12 @@
        "group": "Our Platform",
        "pages": [
         {
-                "group": "integrationsd",
-                "pages": ["datagrip"]
+                "group": "Integrations",
+                "pages": [
+                  "integrations",
+                  "datagrip"
+                  ]
             },
-       
         "security"
       
        ]
