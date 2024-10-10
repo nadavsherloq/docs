@@ -59,6 +59,12 @@
       ]
     },
     {
+       "group": "Our Platform",
+       "pages": [
+        "Integrations"
+       ]
+    },
+    {
       "group": "Essentials",
       "pages": [
         "essentials/markdown",
