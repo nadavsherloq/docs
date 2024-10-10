@@ -61,9 +61,13 @@
     {
        "group": "Our Platform",
        "pages": [
-        "integrations",
-        "datagrip",
+        {
+                "group": "integrationsd",
+                "pages": ["datagrip"]
+            },
+       
         "security"
+      
        ]
     },
     {
