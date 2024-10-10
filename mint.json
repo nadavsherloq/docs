@@ -54,7 +54,10 @@
       "pages": [
         "introduction",
         "quickstart",
-        "development"
+        "development",
+        "datagripplugin"
+"
+        
       ]
     },
     {
