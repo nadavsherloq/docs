@@ -82,11 +82,14 @@
                 "pages": [
                   "newquery",
                   "updatequery",
+                  "displayviews",
                   "versioncontrol",
                   "notes",
                   "diff",
-                  "displayviews",
-                  "snippets"
+                  "snippets",
+                  "formatting",
+                  "tags",
+                  "activities"
                   ]
             }
        ]
