@@ -85,7 +85,8 @@
                   "versioncontrol",
                   "notes",
                   "diff",
-                  "displayviews"
+                  "displayviews",
+                  "snippets"
                   ]
             }
        ]
