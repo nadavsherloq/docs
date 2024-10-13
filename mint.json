@@ -81,7 +81,11 @@
                 "group": "Queries & Versions",
                 "pages": [
                   "newquery",
-                  "datagrip"
+                  "updatequery",
+                  "versioncontrol",
+                  "notes",
+                  "diff",
+                  "displayviews"
                   ]
             }
        ]
