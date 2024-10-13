@@ -76,7 +76,14 @@
        "group": "Repository",
        "pages": [
         
-                "folders"
+                "folders",
+                {
+                "group": "Queries & Versions",
+                "pages": [
+                  "Create New Query",
+                  "datagrip"
+                  ]
+            }
        ]
     },
     {
