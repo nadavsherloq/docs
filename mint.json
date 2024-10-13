@@ -80,7 +80,7 @@
                 {
                 "group": "Queries & Versions",
                 "pages": [
-                  "Create New Query",
+                  "newquery",
                   "datagrip"
                   ]
             }
