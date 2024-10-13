@@ -73,6 +73,13 @@
        ]
     },
     {
+       "group": "Repository",
+       "pages": [
+        
+                "folders"
+       ]
+    },
+    {
       "group": "Essentials",
       "pages": [
         "essentials/markdown",
