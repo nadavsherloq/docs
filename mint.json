@@ -80,7 +80,6 @@
                 "group": "Folders",
                 "pages": [
                   "folders",
-                  "folderstypes",
                   "breadcrumb",
                   "actionsbarfolder",
                   "createfolder",
