@@ -80,7 +80,6 @@
                   "versioncontrol",
                   "notes",
                   "diff",
-                  "snippets",
                   "formatting",
                   "tags",
                   "activities"
@@ -95,6 +94,7 @@
                   "queryhistorysearch"
                   ]
             },
+            "snippets",
             "queryhistory"
        ]
     },
