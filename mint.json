@@ -96,7 +96,7 @@
                 "group": "search",
                 "pages": [
                   "search",
-                  "formating",
+                  "filtering",
                   "sorting",
                   "queryhistorysearch"
                   ]
