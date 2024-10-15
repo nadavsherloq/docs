@@ -1,4 +1,33 @@
 ---
-title: 'New file'
-description: 'Description of your new file.'
+title: 'Queries History Logs'
+description: 'Automated Saving of Executed Queries from IDE.'
 ---
+
+This feature automatically saves the history of queries you and your team run, allowing to access them in the ‘History’ section for quick reuse and reference to your previous work.
+
+<Note> **This feature is compatible only with the following IDEs: DataGrip, Snowflake, BigQuery, and Mode. If you use a different IDE and would like this feature, let us know here.** </Note>
+
+<img src= "/images/query_history_dg.png"
+   alt = "qurey history datagrip"
+   width="700" />
+
+   **Common use cases:**
+- **Metadata Discovery**: Identify which tables and fields are commonly used by your team.
+- **Data Discovery**: Learn how to query specific tables or fields following common practices.
+- **Backup and Easy Access**: Quickly access your previous unsaved work.
+Go to the menu → **History Queries**, and you’ll find all your executed query logs, sorted by the last execution time in your IDE.
+
+<img src= "/images/query_history_menu.png"
+   alt = "qurey history menu"
+   width="400" />
+<img src="/images/query_history_section.png"
+   alt = "query history section"
+   width="400" />
+<Check> There is **unlimited** storage for query logs. </Check>
+<Check> You can save historical queries to your Sherloq by clicking on the save icon. </Check>
+## Search Team’s Queries History Logs
+You can search your team’s query history, filter by the specific user who executed the query, domain expert, or asset name (e.g., a field or table name)
+<img src="/images/query_history_search.png"
+   alt = "query history search"
+   width="400" />
+<Note> To learn more about how the search works, read more here. </Note>
