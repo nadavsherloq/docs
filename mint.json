@@ -76,7 +76,18 @@
        "group": "Repository",
        "pages": [
         
-                "folders",
+                {
+                "group": "Folders",
+                "pages": [
+                  "folders",
+                  "folderstypes",
+                  "breadcrumb",
+                  "actionsbarfolder",
+                  "createfolder",
+                  "sharefolder"
+                  ]
+            }
+            ,
                 {
                 "group": "Queries & Versions",
                 "pages": [
