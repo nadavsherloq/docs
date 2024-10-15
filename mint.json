@@ -91,6 +91,15 @@
                   "tags",
                   "activities"
                   ]
+            },
+            {
+                "group": "search",
+                "pages": [
+                  "search",
+                  "formating",
+                  "sorting",
+                  "queryhistorysearch"
+                  ]
             }
        ]
     },
