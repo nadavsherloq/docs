@@ -17,12 +17,12 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
+      "name": "Book a Demo",
       "url": "mailto:hi@mintlify.com"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
+    "name": "Get Started for Free",
     "url": "https://dashboard.mintlify.com"
   },
   "tabs": [
