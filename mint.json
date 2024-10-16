@@ -2,34 +2,50 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
   "logo": {
-    "dark": "/logo/light_sherloq.svg",
-    "light": "/logo/dark_sherloq.svg"
+    "dark": "/logo/dark.svg",
+    "light": "/logo/light.svg"
   },
-  "favicon": "/logo/favicon.ico",
+  "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#F72585",
-    "light": "#F72585",
-    "dark": "#F72585",
+    "primary": "#0D9373",
+    "light": "#07C983",
+    "dark": "#0D9373",
     "anchors": {
-      "from": "#F72585",
-      "to": "#F72585"
+      "from": "#0D9373",
+      "to": "#07C983"
     }
   },
   "topbarLinks": [
     {
-      "name": "Book a DEMO",
+      "name": "Support",
       "url": "mailto:hi@mintlify.com"
     }
   ],
   "topbarCtaButton": {
-    "name": "Get Started for Free",
+    "name": "Dashboard",
     "url": "https://dashboard.mintlify.com"
   },
+  "tabs": [
+    {
+      "name": "API Reference",
+      "url": "api-reference"
+    }
+  ],
   "anchors": [
     {
-      "name": "Changelog",
-      "icon": "list-timeline",
+      "name": "Documentation",
+      "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
+    },
+    {
+      "name": "Community",
+      "icon": "slack",
+      "url": "https://mintlify.com/community"
+    },
+    {
+      "name": "Blog",
+      "icon": "newspaper",
+      "url": "https://mintlify.com/blog"
     }
   ],
   "navigation": [
@@ -80,6 +96,7 @@
                   "versioncontrol",
                   "notes",
                   "diff",
+                  "snippets",
                   "formatting",
                   "tags",
                   "activities"
@@ -94,7 +111,6 @@
                   "queryhistorysearch"
                   ]
             },
-            "snippets",
             "queryhistory"
        ]
     },
@@ -125,6 +141,8 @@
     }
   ],
   "footerSocials": {
-    "linkedin": "https://www.linkedin.com/company/sherloqdata"
+    "x": "https://x.com/mintlify",
+    "github": "https://github.com/mintlify",
+    "linkedin": "https://linkedin.com/company/mintlify"
   }
 }
