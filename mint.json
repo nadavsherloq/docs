@@ -5,7 +5,7 @@
     "dark": "/logo/light_sherloq.svg",
     "light": "/logo/dark_sherloq.svg"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/logo/favicon.svg",
   "colors": {
     "primary": "#F72585",
     "light": "#F72585",
