@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "SQL Repository",
   "logo": {
     "dark": "/logo/light_sherloq.svg",
     "light": "/logo/dark_sherloq.svg"
