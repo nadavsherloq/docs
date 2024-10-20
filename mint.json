@@ -125,6 +125,15 @@
             "snippets",
             "queryhistory"
        ]
+    },
+    {
+      "group": "Collaboration",
+      "pages": [
+        "invitesherloq",
+        "permissions",
+        "activities",
+        "team_menagament"
+      ]
     }
   ],
   "footerSocials": {
