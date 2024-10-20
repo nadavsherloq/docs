@@ -4,9 +4,11 @@ title: 'Security and Privacy'
 
 At Sherloq, security is a top priority, and we take every measure to ensure everything is safe. 
 
-<Check> SOC 2 certification: Sherloq is SOC2 type II certified! </Check>
-
 Sherloq is backed by top VCs, including YCombinator, demonstrating our commitment to maintaining the highest security standards. 
+
+
+## Compliance 
+<Check> SOC 2 certification: Sherloq is SOC2 type II certified! </Check>
 
 Our platform integrates seamlessly with your environment, requiring read-only access to SQL runs and  no data or metadata integration is required. **Importantly, we do not store or have access to any of your data.**
 
@@ -16,4 +18,19 @@ Our platform integrates seamlessly with your environment, requiring read-only ac
 
 For added security, **Sherloq supports Single Sign-On (SSO)** authentication, ensuring that each organization can maintain control over user access and verification processes. We ensure seamless, secure integration without compromising your data's privacy. Please refer to our Terms and Conditions and Privacy Policy for more detailed information.
 
+## Development
+Our development is NIST compliance. This helps Shrloq keep our data and information secure and safe, protecting critical infrastructure from both insider threats and attacks from the outside. 
+
+## Environment & Encryption 
+All data is stored on AWS and is under AWS encryption. We use AWS KMS to control the lifecycle of and permissions on the keys used to encrypt data on the customer’s behalf. All traffic is done within a VPC or between peered VPCs across regions and is transparently encrypted at the network layer when using supported Amazon EC2 instance types. At the application layer, we use the Transport Layer Security (TLS) encryption protocol. All AWS service endpoints support TLS to create a secure HTTPS connection to make API requests. 
+
+## Detection System
+
+Sherloq Security Guidelines 
+Sherloq's development environment is located on AWS servers in Ireland and as a result it applies to all KMS policies. In addition, Sherloq developers’ PCs have antivirus software installed that will provide protection against web application vulnerabilities. 
+As AWS is Sherloq’s infrastructure environment, this includes alerting administrators of malicious activity and policy violations, as well as identifying and taking action against attacks. 
+
+## Want to know more?
+
 We know how to adapt to the unique security requirements of each organization, including on-premise models. If you have specific needs, feel free to talk with us for further details.
+
