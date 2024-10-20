@@ -45,6 +45,7 @@
         "introduction",
         {
           "group": "Download & Start",
+          "icon": "download",
                 "pages": [
                   "quickstart",
                   "datagripplugin",
