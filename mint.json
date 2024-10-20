@@ -43,9 +43,15 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstart",
-        "datagripplugin",
-        "pintosherloq"
+        {
+          "group": "Download & Start",
+                "pages": [
+                  "quickstart",
+                  "datagripplugin",
+                  "pintosherloq"
+                  ]
+        }
+        
       ]
     },
     {
