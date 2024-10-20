@@ -54,6 +54,7 @@
         },
         {
           "group": "Import Queries",
+          "icon": "file-import",
                 "pages": [
                   "importqueries",
                   "importqueries_datagrip",
