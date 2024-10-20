@@ -1,0 +1,69 @@
+---
+title: 'Import from Bigquery'
+description: 'Import you exsiting saved queries / consoles'
+---
+
+<AccordionGroup>
+
+ <Accordion title="Bulk import history queries">
+
+<Steps>
+
+<Step title = "Go to Bigquery"> </Step>
+
+<Step title = "Run the following query"> 
+```
+SELECT
+creation_time,
+user_email,
+query
+FROM
+region-us.INFORMATION_SCHEMA.JOBS_BY_PROJECT
+WHERE
+job_type = 'QUERY'
+AND state = 'DONE'
+ORDER BY
+creation_time DESC;
+```
+</Step>
+
+
+
+<Step title = "Export the output (SQL queries history) into a file of any type."> </Step>
+
+<Step title = "Drag and drop the file into the Upload a file in the Sherloq setting "> 
+</Step>
+
+</Steps>
+
+
+  </Accordion>
+
+
+ <Accordion title="Copy-paste your saved queries / queries from console ">
+
+<Steps>
+
+<Step title = "Go to Snowflake Bigquery -> 'Saved Queries' tab"> 
+This is located under your project name, on the left-hand side. Click on the SQL you would like to import
+
+ </Step>
+
+<Step title = "Mark the SQL you’d like to import / CTRL + A for all of it ->  Copy it - CTRL + C"> </Step>
+
+
+<Step title = "Create a new TXT or DOC file and paste it, then save the file"> </Step>
+
+<Step title = "Drag and drop the file into the Upload a file in the Sherloq setting "> 
+</Step>
+
+</Steps>
+  </Accordion>
+</AccordionGroup>
+
+
+
+
+
+
+
