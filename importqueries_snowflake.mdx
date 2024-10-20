@@ -1,0 +1,64 @@
+---
+title: 'Import from Snowflake'
+description: 'Import you exsiting saved queries / consoles'
+---
+
+<AccordionGroup>
+
+ <Accordion title="Bulk import history queries">
+
+<Steps>
+
+<Step title = "Go to Snowflake"> </Step>
+
+<Step title = "Run the following query"> 
+```
+SELECT *
+FROM TABLE(INFORMATION_SCHEMA.QUERY_HISTORY())
+WHERE EXECUTION_STATUS = 'SUCCESS'
+AND USER_NAME = '<your_username>';
+```
+</Step>
+
+
+
+<Step title = "Export the output (SQL queries history) into a file of any type."> </Step>
+
+<Step title = "Drag and drop the file into the Upload a file in the Sherloq setting "> 
+</Step>
+
+</Steps>
+
+
+  </Accordion>
+
+
+ <Accordion title="Import files from history">
+
+<Steps>
+
+<Step title = "Go to DataGrip"> </Step>
+
+<Step title = "Click on the upper DataGrip Menu"> </Step>
+
+<Step title = "Click `Help` -> `Show SQL Log in Finder`"> </Step>
+
+<Step title = "Drag and drop the file into the Upload a file in the Sherloq setting "> 
+</Step>
+
+</Steps>
+
+<img
+  src="/images/dg_import_2.png"
+/>
+
+  </Accordion>
+
+</AccordionGroup>
+
+
+
+
+
+
+
