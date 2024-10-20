@@ -55,7 +55,12 @@
           "group": "Import Queries",
                 "pages": [
                   "importqueries",
-                  "importqueries_datagrip"
+                  "importqueries_datagrip",
+                  "importqueries_snowflake",
+                  "importqueries_bigquery",
+                  "importqueries_athena",
+                  "importqueries_tableau",
+                  "importqueries_github"
                   ]
         }
         
