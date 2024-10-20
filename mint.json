@@ -130,9 +130,9 @@
       "group": "Collaboration",
       "pages": [
         "invitesherloq",
-        "permissions",
         "activities",
-        "team_management"
+        "team_management",
+        "permissions"
       ]
     }
   ],
