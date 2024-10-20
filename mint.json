@@ -50,7 +50,15 @@
                   "datagripplugin",
                   "pintosherloq"
                   ]
+        },
+        {
+          "group": "Import Queries",
+                "pages": [
+                  "importqueries",
+                  "importqueries_datagrip"
+                  ]
         }
+        
         
       ]
     },
