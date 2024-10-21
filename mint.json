@@ -74,7 +74,7 @@
        "group": "Our Platform",
        "pages": [
         {
-                "group": "All Integrations",
+                "group": "Integrations",
                 "pages": [
                   "datagrip",
                   "tableau",
