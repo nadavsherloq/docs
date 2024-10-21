@@ -76,8 +76,9 @@
         {
                 "group": "All Integrations",
                 "pages": [
-                  "integrations",
-                  "datagrip"
+                  "datagrip",
+                  "tableau",
+                  "github"
                   ]
             },
         "features",
