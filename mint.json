@@ -138,13 +138,23 @@
       ]
     }
   ],
-  "Resources":
+  "anchors": [
     {
-      "name": "Changlog",
-      "icon": "list-timeline",
-      "url": "https://sherloqdata.io",
-      "pages": "changlog"
+        "name": "API References",
+        "icon": "code",
+        "url": "api-references"
     },
+    {
+        "name": "Content",
+        "icon": "pencil",
+        "url": "content"
+    },
+    {
+        "name": "Contact us",
+        "icon": "envelope",
+        "url": "https://mintlify.com/contact-us"
+    }
+],
   "footerSocials": {
     "linkedin": "https://www.linkedin.com/company/sherloqdata"
   }
