@@ -36,6 +36,12 @@
       "name": "Changlog",
       "icon": "list-timeline",
       "url": "https://mintlify.com/docs"
+    },
+    {
+    "name": "Help & Support",
+    "icon": "headset",
+    "url": "https://sherloqdata.io"
+
     }
   ],
   "navigation": [
