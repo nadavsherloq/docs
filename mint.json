@@ -138,6 +138,13 @@
       ]
     }
   ],
+  "Resources": [
+    {
+      "name": "Changlog",
+      "icon": "list-timeline",
+      "url": "https://sherloqdata.io",
+      "pages": "changlog"
+    },
   "footerSocials": {
     "linkedin": "https://www.linkedin.com/company/sherloqdata"
   }
