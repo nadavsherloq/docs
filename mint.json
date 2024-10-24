@@ -38,12 +38,12 @@
     {
       "name": "Changlog",
       "icon": "list-timeline",
-      "url": "https://www.sherloqdata.io"
+      "url": "https://sherloq-31da1dfe.mintlify.app/changelog"
     },
     {
     "name": "Help & Support",
     "icon": "headset",
-      "url": "https://www.sherloqdata.io"
+      "url": "https://sherloq-31da1dfe.mintlify.app/contactus"
 
     }
   ],
