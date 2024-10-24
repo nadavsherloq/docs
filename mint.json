@@ -147,6 +147,17 @@
     }
   ],
 
+  "group": "Resources",
+  "pages":
+   [
+    "contactus",
+    "casestudy",
+    "producthunt",
+    "trustpilot",
+    "terms",
+    "privacypolicy"
+  ],
+
   "footerSocials": {
     "linkedin": "https://www.linkedin.com/company/sherloqdata"
   }
