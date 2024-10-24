@@ -156,8 +156,10 @@
     "terms",
     "privacypolicy"
   ]
+    }
     
-  },
+  ],
+
   "footerSocials": {
     "linkedin": "https://www.linkedin.com/company/sherloqdata"
   }
