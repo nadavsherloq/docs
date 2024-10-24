@@ -144,10 +144,9 @@
         "team_management",
         "permissions"
       ]
-    }
-  ],
-
-  "group": "Resources",
+    },
+    {
+      "group": "Resources",
   "pages":
    [
     "contactus",
@@ -156,8 +155,9 @@
     "trustpilot",
     "terms",
     "privacypolicy"
-  ],
-
+  ]
+    
+  },
   "footerSocials": {
     "linkedin": "https://www.linkedin.com/company/sherloqdata"
   }
