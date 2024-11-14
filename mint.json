@@ -3,7 +3,9 @@
   "name": "SQL Repository",
   "logo": {
     "dark": "/logo/light_sherloq.svg",
-    "light": "/logo/dark_sherloq.svg"
+    "light": "/logo/dark_sherloq.svg",
+     "href": "https://sherloqdata.io"
+
   },
   "modeToggle": {
   "default": "dark"
@@ -38,12 +40,12 @@
     {
       "name": "Changlog",
       "icon": "list-timeline",
-      "url": "https://sherloq-31da1dfe.mintlify.app/changelog"
+      "url": "https://docs.sherloqdata.io/changelog"
     },
     {
     "name": "Help & Support",
     "icon": "headset",
-      "url": "https://sherloq-31da1dfe.mintlify.app/contactus"
+      "url": "https://https://docs.sherloqdata.io/contactus"
 
     }
   ],
