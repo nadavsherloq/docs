@@ -117,6 +117,7 @@
                 "pages": [
                   "newquery",
                   "updatequery",
+                  "sharequery",
                   "displayviews",
                   "versioncontrol",
                   "notes",
