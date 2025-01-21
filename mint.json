@@ -137,7 +137,8 @@
                   ]
             },
             "snippets",
-            "queryhistory"
+            "queryhistory",
+            "admin"
        ]
     },
     {
