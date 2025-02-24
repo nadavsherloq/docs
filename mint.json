@@ -108,7 +108,8 @@
                   "breadcrumb",
                   "actionsbarfolder",
                   "createfolder",
-                  "sharefolder"
+                  "sharefolder",
+                  "movefolder"
                   ]
             }
             ,
