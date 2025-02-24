@@ -109,7 +109,8 @@
                   "actionsbarfolder",
                   "createfolder",
                   "sharefolder",
-                  "movefolder"
+                  "movefolder",
+                  "filterfolder"
                   ]
             }
             ,
