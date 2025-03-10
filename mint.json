@@ -93,7 +93,8 @@
                   "jetbrains",
                   "vscode",
                   "tableau",
-                  "github"
+                  "github",
+                  "other_editor"
                   ]
             },
         "features",
