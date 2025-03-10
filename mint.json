@@ -38,14 +38,14 @@
   ],
   "anchors": [
     {
-      "name": "Changlog",
+      "name": "Changelog",
       "icon": "list-timeline",
       "url": "https://docs.sherloqdata.io/changelog"
     },
     {
     "name": "Help & Support",
     "icon": "headset",
-      "url": "https://https://docs.sherloqdata.io/contactus"
+      "url": "https://docs.sherloqdata.io/contactus"
 
     }
   ],
