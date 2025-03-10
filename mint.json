@@ -90,7 +90,7 @@
                 "pages": [
                   "allintegrations",
                   "web_editors",
-                  "jetbrains"
+                  "jetbrains",
                   "tableau",
                   "github"
                   ]
