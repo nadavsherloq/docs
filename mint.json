@@ -60,7 +60,7 @@
                 "pages": [
                   "quickstart",
                   "datagripplugin",
-                  "vscode",
+                  "vscodeplugin",
                   "pintosherloq"
                   ]
         },
@@ -91,6 +91,7 @@
                   "allintegrations",
                   "web_editors",
                   "jetbrains",
+                  "vscode",
                   "tableau",
                   "github"
                   ]
