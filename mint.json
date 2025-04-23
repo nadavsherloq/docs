@@ -146,6 +146,7 @@
                   ]
             },
             "snippets",
+            "fixsyntaxerror",
             "queryhistory",
            "chatwithus",
             "admin"
