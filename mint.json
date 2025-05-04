@@ -77,7 +77,8 @@
                   "importqueries_github",
                   "importqueries_docs",
                   "importqueries_sheets",
-                  "importqueries_notion"
+                  "importqueries_notion",
+                  "importqueries_dbt"
                   ]
         },
         "checklist"
