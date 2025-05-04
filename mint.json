@@ -75,7 +75,7 @@
                   "importqueries_athena",
                   "importqueries_tableau",
                   "importqueries_github",
-                  "importqueries_doc",
+                  "importqueries_docs",
                   "importqueries_sheets"
                   ]
         },
