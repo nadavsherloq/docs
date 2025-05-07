@@ -1,0 +1,56 @@
+---
+title: "Ask Sherloq AI"
+description: "Sherloq AI is your assistant inside the editor.
+"
+---
+
+![Sherloq AI Chat](/images/chat_usecase.png)
+
+
+## What is it?
+
+Sherloq AI is your assistant inside the editor.\
+You can ask it things like:
+
+> **"How to filter out the exclude folder?"**\
+> **"Why is this query using a LEFT JOIN?"**\
+> **"Fix syntax error in this query"**
+
+It reads the queries you’ve saved in Sherloq and gives answers that are **based on your real SQL**, not generic advice.
+
+## How to use it
+
+1. **Open Sherloq AI**\
+   Click the Sherloq badge in your editor to open the chat.
+2. **Ask a question**\
+   Type your question in natural language — no need to write SQL.
+3. **See the answer with real SQL examples**\
+   Sherloq highlights the relevant logic and explains each part clearly.
+
+---
+
+![Sherloq AI Chat](/images/sherloqaichat_example.png)
+
+## Example: Filtering Folders
+
+🖼️ Here’s what it looks like when you ask a question like\
+**“How to filter out the exclude folder?”**
+
+### What this does:
+
+- Joins the `query_folders` table on `parent_id`
+- Excludes deleted folders (`deleted_at IS NULL`)
+- Filters out names with terms like `monthly`, `weekly`, `template`, etc.
+
+You’ll get both the **SQL** and the **explanation**—so you can learn or adjust it as needed.
+
+## Tip: Ask About Anything
+
+Try things like:
+
+- _“What does this CASE WHEN mean?”_
+- _“Can you rewrite this to use CTEs?”_
+- _“How to join deals with customers?”_
+- _“Fix this BigQuery syntax error”_
+
+Sherloq AI is powered by the queries your team has already written, so it’s always relevant.
