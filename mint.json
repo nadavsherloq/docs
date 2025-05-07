@@ -109,9 +109,10 @@
        ]
     },
     {
-       "group": "Repository",
-       "pages": [
-        
+       "group": "Product",
+       
+    "pages": [
+        "fixsyntaxerror",
                 {
                 "group": "Folders",
                 "pages": [
@@ -150,7 +151,6 @@
                   ]
             },
             "snippets",
-            "fixsyntaxerror",
             "queryhistory",
            "chatwithus",
             "admin"
